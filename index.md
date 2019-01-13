@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vincent Peta's CV
 ---
-# Isaac Newton
+# Vincent Peta
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Ph.D. Student Specializing in Microbiology and Plant Microbe Interactions 
 
 ### Specialized in
 
@@ -22,7 +22,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Bacteria, Biologicals, Data Science, alchemy, planetary motions, apples.
 
 
 ## Education
