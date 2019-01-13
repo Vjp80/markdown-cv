@@ -17,18 +17,18 @@ Ph.D. Student Specializing in Microbiology and Plant Microbe Interactions
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Microbiology, Whole Genome Sequencing, Microbiome Analysis,Data Analysis 
 
 
 ### Research interests
 
-Bacteria, Biologicals, Data Science, alchemy, planetary motions, apples.
+Bacteria, Biologicals, Data Science, 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2014`
+__South Dakota State University, Brookings, SD.__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
